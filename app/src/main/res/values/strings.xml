@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_sqlite">SQLite is a programming language.</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_flutter">Flutter is used in cross-platform mobile development.</string>
+    <string name="question_angular">Angular is a backend framework.</string>
+    <string name="question_js">Javascript is similar to Java</string>
+    <string name="question_html">HTML in full is:
+        \n \t <b>Hypertext Markup Language</b>.</string>
+    <string name="question_php">PHP is a scripting language.</string>
+    <string name="question_py">Express is a framework of python programming language.</string>
+    <string name="question_vscode">Visual Studio Code is a text editor .</string>
+    <string name="next_text">next</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+    <string name="prev_button">Previous Button</string>
+    <string name="prev_text">Previous Text</string>
+</resources>
